@@ -605,6 +605,9 @@
       #Load Core App data
       {
         load("Data2.Rdata")
+        load("Data3.Rdata")
+        load("Data4.Rdata")
+        load("Data5.Rdata")
       }
     }
     
