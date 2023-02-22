@@ -1,7 +1,0 @@
-Species,Strain,Disease,Type,NCBI Link
-Enterococcus faecium,DO,ESKAPE Pathogen,Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000174395.2/
-Staphylococcus aureus,NCTC 8325,ESKAPE Pathogen,Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000013425.1/
-Klebsiella pneumoniae,MGH 78578,ESKAPE Pathogen,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000016305.1/
-Acinetobacter baumannii,AYE,ESKAPE Pathogen,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000069245.1/
-Pseudomonas aeruginosa,PAO1,ESKAPE Pathogen,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000006765.1/
-Enterobacter cloacae,ATCC 13047,ESKAPE Pathogen,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000025565.1/
