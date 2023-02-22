@@ -1,0 +1,25 @@
+Species,Strain,Disease,Type,NCBI Link
+Achromobacter xylosoxidans,A8,Cystic Fibrosis,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000165835.1/
+Acinetobacter baumannii,AYE,ESKAPE Pathogen,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000069245.1/
+Aspergillus fumigatus,Strain 293,Cystic Fibrosis,Fungus,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000002655.1/
+Bacteroides fragilis,NCTC 9343,Cystic Fibrosis,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000025985.1/
+Burkholderia cenocepacia,J2315,Cystic Fibrosis,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000009485.1/
+Burkholderia multivorans,ATCC 17616 (Tohoku),Cystic Fibrosis,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000010545.1/
+Candida albicans,SC5314,Cystic Fibrosis,Fungus,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000182965.3/
+Clostridium difficile,Strain 630,Cystic Fibrosis,Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000009205.2/
+Clostridium perfringens,ATCC 13124,Cystic Fibrosis,Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000013285.1/
+Enterobacter cloacae,ATCC 13047,ESKAPE Pathogen,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000025565.1/
+Enterococcus faecium,DO,ESKAPE Pathogen,Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000174395.2/
+Escherichia coli,K12 (Substr. MG1655),Cystic Fibrosis,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/taxonomy/511145/
+Haemophilus influenza,Strain 477,Cystic Fibrosis,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/labs/data-hub/genome/GCF_000931575.1/
+Klebsiella pneumoniae,MGH 78578,ESKAPE Pathogen,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000016305.1/
+Mycobacterium abscessus,ATCC 19977,Cystic Fibrosis,Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000069185.1/
+Mycobacterium avium,Strain 104,Cystic Fibrosis,Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/labs/data-hub/genome/GCF_000014985.1/
+Prevotella melaninogenica,ATCC 25845,Cystic Fibrosis,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000144405.1/
+Pseudomonas aeruginosa,PAO1,"Cystic Fibrosis, ESKAPE Pathogen",Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000006765.1/
+Staphylococcus aureus,NCTC 8325,"Cystic Fibrosis, ESKAPE Pathogen",Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000013425.1/
+Stenotrophomonas maltophilia,K279a,Cystic Fibrosis,Gram-Negative Bacterium,https://www.ncbi.nlm.nih.gov/labs/data-hub/genome/GCF_000072485.1/
+Streptococcus parasanguinis,ATCC 15912,Cystic Fibrosis,Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000164675.2/
+Streptococcus pneumoniae,R6,Cystic Fibrosis,Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/labs/data-hub/genome/GCF_000007045.1/
+Streptococcus salivarius,CCHSS3,Cystic Fibrosis,Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000253335.1/
+Streptococcus sanguinis,SK36,Cystic Fibrosis,Gram-Positive Bacterium,https://www.ncbi.nlm.nih.gov/labs/data-hub/genome/GCF_000014205.1/
