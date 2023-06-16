@@ -10,7 +10,7 @@ In the application, users can predict which miRNAs are best suited in general to
 
 ### Requirements:
 
-You can access the published version of Rocket-miR online at the following link: *Link will be available soon*
+You can access the published version of Rocket-miR online at the following link: http://scangeo.dartmouth.edu/RocketmiR/
 
 To run the R Shiny application on your own computer in Rstudio, download the contents of the repository as a zip file using the green ‘Code’ button at the top right of this web page. 
 
