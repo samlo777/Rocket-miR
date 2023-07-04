@@ -48,3 +48,4 @@ The Rocket-miR expansion folder contains IntaRNA predictions for additional micr
 
 - Read the IntaRNA Prediction guide which outlines all the essential steps of making new predictions [IntaRNA Prediction Guide]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4847146/](https://docs.google.com/document/d/1sxUSO6hEWznG-G6ytl4HQuzbiNAj5yxOqsZHtavOr24/edit?usp=sharing)https://docs.google.com/document/d/1sxUSO6hEWznG-G6ytl4HQuzbiNAj5yxOqsZHtavOr24/edit?usp=sharing)
 - Reach out to neff [dot] sam1 [at] gmail [dot] com about making the results of these predictions publicly available in this repository.
+  
