@@ -47,5 +47,7 @@ Rocket-miR Expansion:
 The Rocket-miR expansion folder contains IntaRNA predictions for additional microbial strains. Anyone is welcome to contribute additional predictions to the repository. If you would like to contribute...
 
 - Read the IntaRNA Prediction guide which outlines all the essential steps of making new predictions [IntaRNA Prediction Guide](https://docs.google.com/document/d/1sxUSO6hEWznG-G6ytl4HQuzbiNAj5yxOqsZHtavOr24/edit?usp=sharing)
-- Reach out to neff [dot] sam1 [at] gmail [dot] com about making the results of these predictions publicly available in this repository.
+- Reach out to neff [dot] sam1 [at] gmail [dot] com about making the results of these predictions publicly available in this repository and/or if you have any questions. 
+
+Each new strain will have its own folder within the Rocket-miR expansion folder, containing both the target prediction energy table and an HTML file with the target prediction analysis outputs for the strain. The IntaRNA Prediction Guide explains how to generate both the energy table and the HTML file. 
   
