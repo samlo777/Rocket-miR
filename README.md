@@ -49,5 +49,5 @@ The Rocket-miR expansion folder contains IntaRNA predictions for additional micr
 - Read the IntaRNA Prediction guide which outlines all the essential steps of making new predictions [IntaRNA Prediction Guide](https://docs.google.com/document/d/1sxUSO6hEWznG-G6ytl4HQuzbiNAj5yxOqsZHtavOr24/edit?usp=sharing)
 - Reach out to neff [dot] sam1 [at] gmail [dot] com about making the results of these predictions publicly available in this repository and/or if you have any questions. 
 
-Each new strain will have its own folder within the Rocket-miR expansion folder, containing both the target prediction energy table and an HTML file with the target prediction analysis outputs for the strain. The IntaRNA Prediction Guide explains how to generate both the energy table and the HTML file. 
+Each new strain will have its own folder within Rocket-miR expansion containing the target prediction energy table, an HTML file with target prediction analysis outputs, and a short informational text file with the strain name and a link to the NCBI assembly page containing the strain's cDNA sequences. The IntaRNA Prediction Guide explains how to generate both the energy table and the HTML file given the cDNA sequence data. 
   
