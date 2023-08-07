@@ -22,6 +22,8 @@ If you use Rocket-miR to advance your own research, please cite the following pu
 
 *Placeholder: Reference will be available as soon as the associated manuscript is submitted…*
 
+For now, you can cite our pre-print, hosted in biorxiv under the title: [Rocket-miR, a Translational Launchpad for miRNA-based Antimicrobial Drug Development] (https://www.biorxiv.org/content/10.1101/2023.06.22.546111v1#:~:text=The%20Rocket%2DmiR%20application%20predicts,to%20test%20the%20application's%20predictions.)
+
 If you have any questions about the application or its source code - or would like to apply the Rocket-miR framework to new species and/or new small RNA molecules - please reach out to neff [dot] sam1 [at] gmail [dot] com
 
 ### Directory Contents
